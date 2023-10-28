@@ -6,6 +6,7 @@
 - [Alec Smith](https://github.com/sharktankful)
 - [Marko Cuk](https://github.com/MarkoCuk54)
 - [Abstaina Ephraim] (https://github.com/Abstaina44)
+- [Durell Wilson] (https://github.com/durellwilson)
 - [Arth Patel](https://github.com/Arthpatel01)
 - [rita faretra](https://github.com/peterston-e)
 - [Gaurav Katkade](https://github.com/gaurav-katkade)
